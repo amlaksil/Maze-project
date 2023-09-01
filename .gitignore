@@ -1,6 +1,7 @@
 # Prerequisites
 *.d
-
+# Temp files
+*~
 # Object files
 *.o
 *.ko
