@@ -2,6 +2,26 @@
 
 Maze is a 2D game developed using raycasting in C and the SDL2 library. It offers an immersive gameplay experience similar to Wolfenstein 3D, where players navigate through a maze-like environment.
 
+![Maze Gameplay](https://drive.google.com/uc?export=view&id=1FBMONyTlfiQYXYKeT3n7kS45a8iZu5XQ)
+
+## Introduction
+
+My inspiration to undertake the Maze game project was driven by the challenge presented to me - the requirement to implement raycasting algorithms using the C programming language and the SDL2 library. While initially daunting, this challenge ignited a curiosity within me to explore the inner workings of raycasting and understand its fundamental principles.
+
+Admittedly, comprehending raycasting algorithms proved to be a formidable task. The intricacies and mathematical concepts involved pushed me beyond my comfort zone. Yet, I was determined to conquer this hurdle and gain a deep understanding of how raycasting brings a 2D world to life, creating dynamic and immersive gameplay.
+
+Throughout the process, I sought out various resources, tutorials, and documentation to unravel the mysteries of raycasting. I delved into the underlying mathematics and absorbed the intricacies of casting rays, calculating intersections, and generating the visual representation of the game world. It was a challenging journey that demanded patience, persistence, and a willingness to learn.
+
+There were moments of frustration and confusion, where the complexities of raycasting seemed insurmountable. However, with each obstacle I encountered, I dedicated myself to thorough research and sought guidance from experienced developers. Through their insights and support, I gradually gained a clearer understanding of the algorithms and their practical implementation.
+
+As my comprehension of raycasting grew, so did my excitement. Witnessing the transformation of abstract concepts into tangible visuals was awe-inspiring. The ability to simulate depth, create immersive environments, and bring the maze to life was a testament to the power of raycasting.
+
+This project has not only deepened my understanding of raycasting algorithms but has also sparked a profound appreciation for their potential in game development. It has been a journey of growth and discovery, where I have embraced the challenges and emerged with newfound knowledge and skills.
+
+In conclusion, the Maze game project, driven by the requirement to implement raycasting algorithms using the C programming language and the SDL2 library, presented me with an opportunity for personal and technical growth. Despite the initial difficulties in understanding raycasting, my determination and commitment to learning have propelled me forward. This project has allowed me to expand my understanding of raycasting and witness its transformative impact on creating an immersive gaming experience.
+
+For more detailed information and insights about the development process and challenges please check out my accompanying blog article on medium: [Portfolio Project Blog Article](https://medium.com/@amlasil/embarking-on-an-exhilarating-journey-developing-an-immersive-raycasting-game-5c60fbb466ca).
+
 ## Features
 
 - 3D Raycasting: The game utilizes raycasting techniques to create a pseudo-3D effect, allowing players to explore the maze.
@@ -34,7 +54,7 @@ $ https://github.com/amlaksil/Maze-project
 ```
 2. Navigate to the project directory.
 ```
-$ cd maze-project
+$ cd Maze-project
 ```
 3. Compile the code using the provided Makefile.
 ```
@@ -66,6 +86,12 @@ $ make run
 
 - If you encounter any issues or have questions, please open an issue on the project's GitHub repository (https://github.com/amlaksil/maze-project/issues).
 
+## Author
+
+- [Silamlak Desye](https://www.linkedin.com/in/silamlakdesye)
+
+Feel free to connect with me on LinkedIn for any questions, collaboration opportunities, or to learn more about my professional background.
+
 ## License
 
-This project is licensed under the [MIT License](https://mit-license.org/amlaksil).
+This project is licensed under the [MIT License](https://mit-license.org/amlaksil). See the [LICENSE](LICENSE) file for more details.
