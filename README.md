@@ -2,7 +2,7 @@
 
 Maze is a 2D game developed using raycasting in C and the SDL2 library. It offers an immersive gameplay experience similar to Wolfenstein 3D, where players navigate through a maze-like environment.
 
-![Maze Gameplay](https://drive.google.com/uc?export=view&id=1FBMONyTlfiQYXYKeT3n7kS45a8iZu5XQ)
+![Image not found](images/maze-game.gif)
 
 ## Introduction
 
